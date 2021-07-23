@@ -2,7 +2,7 @@
 title: "Test"
 date: 2021-07-23T19:04:04+03:00
 albumthumb: "test/bird.jpg"
-draft: true
+draft: flase
 
 resources:
 - src: "test/bird.jpg"
