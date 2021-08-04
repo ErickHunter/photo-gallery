@@ -13,7 +13,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [params]
     # Meta
     description = "erick.ee - Photo Gallery on Hugo"
-    keywords = "erick hunter, erick.ee, photogallery, photoblog"
+    keywords = "erick hunter, erick.ee, photogallery, photoblog, Tallinn, Estonia"
     #msvalidate = ""
     #googlesiteverification = ""
     thumb_width = 1818
@@ -33,7 +33,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     name = "About"
     url = "#footer"
     icon = "fa-info-circle"    
-    
+   
     # Footer panel
     
     [params.footer.paragraph]
