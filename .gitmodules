@@ -1,6 +1,3 @@
 [submodule "themes/autophugo"]
 	path = themes/autophugo
 	url = https://github.com/kc0bfv/autophugo.git
-[submodule "themes/themes/ananke"]
-	path = themes/themes/ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git

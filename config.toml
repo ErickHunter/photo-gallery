@@ -38,7 +38,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     
     [params.footer.paragraph]
     headline = "Estonia on 35mm"
-    text = "This is a gallery of select photos I’ve taken on 35mm film. This is really just an excuse to test out continuous deployment on AWS Amplify. Why, becuase film is fun. "
+    text = "This is a gallery of select photos I’ve taken on 35mm film. Most of these pictures will have been taken on a Nikon or Zenit. It's also really good excuse to test out continuous deployment on AWS Amplify. Why not shoot on DSLR? Becuase that's too easy."
     
     #[params.footer.social]
     #headline = "Follow me"
