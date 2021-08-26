@@ -87,25 +87,25 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
     
-    #[params.footer.contact]
-    #hide = false # Set this to true if you don't want to have a contact form on your site
-    #realEmail = "example@example.org"
-    #headline = "Get in touch"
-    #buttonText = "Send"
-    #resetText = "Reset"
+    [params.footer.contact]
+    hide = true # Set this to true if you don't want to have a contact form on your site
+    realEmail = "example@example.org"
+    headline = "Get in touch"
+    buttonText = "Send"
+    resetText = "Reset"
     
     # 'warning' defines error messages for invalid inputs
-    #[params.footer.contact.name]
-    #text = "Name *"
-    #warning = "Please, enter your name"
+    [params.footer.contact.name]
+    text = "Name *"
+    warning = "Please, enter your name"
 
-    #[params.footer.contact.email]
-    #text = "Email *"
-    #warning = "Please, enter your email."
+    [params.footer.contact.email]
+    text = "Email *"
+    warning = "Please, enter your email."
 
-    #[params.footer.contact.message]
-    #text = "Message *"
-    #warning = "Please, enter your message"
+    [params.footer.contact.message]
+    text = "Message *"
+    warning = "Please, enter your message"
     
     # Copyright
     [params.footer.copyright]
