@@ -33,6 +33,11 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     name = "About"
     url = "#footer"
     icon = "fa-info-circle"    
+
+    # [[params.header.links]]
+    # name = "Kwad"
+    # url = "https://kwad.space"
+    
    
     # Footer panel
     
@@ -53,15 +58,15 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     #url = "#"
     #icon = "fa-facebook"
 
-    #[[params.footer.social.links]]
-    #label = "Instagram"
-    #url = "#"
-    #icon = "fa-instagram"
+    [[params.footer.social.links]]
+    label = "Instagram"
+    url = "https://www.instagram.com/_erick_lh/"
+    icon = "fa-instagram"
 
-    #[[params.footer.social.links]]
-    #label = "Github"
-    #url = "#"
-    #icon = "fa-github"
+    [[params.footer.social.links]]
+    label = "Github"
+    url = "https://github.com/ErickHunter"
+    icon = "fa-github"
 
     #[[params.footer.social.links]]
     #label = "LinkedIn"
